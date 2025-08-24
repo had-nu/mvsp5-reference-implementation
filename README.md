@@ -1,7 +1,6 @@
 # mvsp5-reference-implementation
 
-Este repositório contém um ambiente simulado inseguro para reproduzir as condições originais da aplicação de gestão de contratos de manutenção de veículos.  
-**Atenção**: este repositório não é a implementação do MVSP5. Ele representa o estado inicial vulnerável sobre o qual o MVSP5 será aplicado como prova de conceito.
+Este repositório contém um ambiente simulado inseguro para reproduzir as condições originais da aplicação de gestão de contratos de manutenção de veículos. Não é a implementação do MVSP5, ele representa o estado inicial vulnerável sobre o qual o MVSP5 será aplicado como prova de conceito.
 
 ---
 
